@@ -1,0 +1,74 @@
+{
+    "Users" : [
+        {
+            "id": 1,
+            "kode": "KD-001",
+            "nama": "Toyota Alphard",
+            "kategori": "SUV",
+            "bahanbakar": "Bensin"
+          },
+          {
+            "id": 2,
+            "kode": "KD-002",
+            "nama": "Toyota Avanza",
+            "kategori": "Mini Bus",
+            "bahanbakar": "Bensin"
+          },
+          {
+            "id": 3,
+            "kode": "KD-003",
+            "nama": "Toyota Fortuner",
+            "kategori": "SUV",
+            "bahanbakar": "Solar"
+          },
+          {
+            "id": 4,
+            "kode": "KD-004",
+            "nama": "Toyota Altis",
+            "kategori": "Sedan",
+            "bahanbakar": "Bensin"
+          },
+          {
+            "id": 5,
+            "kode": "KD-005",
+            "nama": "Toyota Supra",
+            "kategori": "Super Car",
+            "bahanbakar": "Bensin"
+          },
+          {
+            "id": 6,
+            "kode": "KD-006",
+            "nama": "Toyota Yaris",
+            "kategori": "Sedan",
+            "bahanbakar": "Bensin"
+          },
+          {
+            "id": 7,
+            "kode": "KD-007",
+            "nama": "Honda Brio",
+            "kategori": "Sedan",
+            "bahanbakar": "Bensin"
+          },
+          {
+            "id": 8,
+            "kode": "KD-008",
+            "nama": "Honda Jazz",
+            "kategori": "Sedan",
+            "bahanbakar": "Bensin"
+          },
+          {
+            "id": 9,
+            "kode": "KD-009",
+            "nama": "Honda CRV",
+            "kategori": "SUV",
+            "bahanbakar": "Solar"
+          },
+          {
+            "id": 10,
+            "kode": "KD-010",
+            "nama": "Honda BRV",
+            "kategori": "SUV",
+            "bahanbakar": "Bensin"
+          }
+    ]
+}
